@@ -1,0 +1,6 @@
+framework module AipOcrSdkRelease {
+  umbrella header "AipOcrSdkRelease-umbrella.h"
+
+  export *
+  module * { export * }
+}

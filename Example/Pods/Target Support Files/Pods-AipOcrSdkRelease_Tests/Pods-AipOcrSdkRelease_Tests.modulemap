@@ -1,0 +1,6 @@
+framework module Pods_AipOcrSdkRelease_Tests {
+  umbrella header "Pods-AipOcrSdkRelease_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
