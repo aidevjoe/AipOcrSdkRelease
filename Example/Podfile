@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AipOcrSdkRelease_Tests' do
+  pod 'AipOcrSdkRelease', :path => '../'
+  
+  
+end
